@@ -1,2 +1,2 @@
 # Graph-Simulation
-Final Project of Simulation course - Spring 2023
+Final Project of Computer Simulation course - Spring 2023
