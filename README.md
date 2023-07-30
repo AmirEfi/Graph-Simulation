@@ -3,4 +3,4 @@
 
 There are 9 questions for the simulation of graphs as you can see.
 
-Based on outputs and plots, you can find out what was the purpose of the question.
+Based on outputs and plots, you can find out the purpose of each question.
